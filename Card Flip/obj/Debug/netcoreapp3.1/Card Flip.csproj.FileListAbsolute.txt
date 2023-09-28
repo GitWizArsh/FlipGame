@@ -1,0 +1,17 @@
+C:\Users\asl11\source\repos\Card Flip\Card Flip\bin\Debug\netcoreapp3.1\Card Flip.exe
+C:\Users\asl11\source\repos\Card Flip\Card Flip\bin\Debug\netcoreapp3.1\Card Flip.deps.json
+C:\Users\asl11\source\repos\Card Flip\Card Flip\bin\Debug\netcoreapp3.1\Card Flip.runtimeconfig.json
+C:\Users\asl11\source\repos\Card Flip\Card Flip\bin\Debug\netcoreapp3.1\Card Flip.runtimeconfig.dev.json
+C:\Users\asl11\source\repos\Card Flip\Card Flip\bin\Debug\netcoreapp3.1\Card Flip.dll
+C:\Users\asl11\source\repos\Card Flip\Card Flip\bin\Debug\netcoreapp3.1\Card Flip.pdb
+C:\Users\asl11\source\repos\Card Flip\Card Flip\obj\Debug\netcoreapp3.1\Card Flip.csproj.AssemblyReference.cache
+C:\Users\asl11\source\repos\Card Flip\Card Flip\obj\Debug\netcoreapp3.1\Card_Flip.Flip_Card.resources
+C:\Users\asl11\source\repos\Card Flip\Card Flip\obj\Debug\netcoreapp3.1\Card_Flip.Properties.Resources.resources
+C:\Users\asl11\source\repos\Card Flip\Card Flip\obj\Debug\netcoreapp3.1\Card Flip.csproj.GenerateResource.cache
+C:\Users\asl11\source\repos\Card Flip\Card Flip\obj\Debug\netcoreapp3.1\Card Flip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asl11\source\repos\Card Flip\Card Flip\obj\Debug\netcoreapp3.1\Card Flip.AssemblyInfoInputs.cache
+C:\Users\asl11\source\repos\Card Flip\Card Flip\obj\Debug\netcoreapp3.1\Card Flip.AssemblyInfo.cs
+C:\Users\asl11\source\repos\Card Flip\Card Flip\obj\Debug\netcoreapp3.1\Card Flip.csproj.CoreCompileInputs.cache
+C:\Users\asl11\source\repos\Card Flip\Card Flip\obj\Debug\netcoreapp3.1\Card Flip.dll
+C:\Users\asl11\source\repos\Card Flip\Card Flip\obj\Debug\netcoreapp3.1\Card Flip.pdb
+C:\Users\asl11\source\repos\Card Flip\Card Flip\obj\Debug\netcoreapp3.1\Card Flip.genruntimeconfig.cache
